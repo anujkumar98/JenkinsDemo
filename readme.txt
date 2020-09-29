@@ -1,5 +1,3 @@
 hello world Day 2 XDemo
 
-Day 2   
-Changes made
-ASDADA
+Day 2
